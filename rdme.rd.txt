@@ -1,0 +1,16 @@
+
+Lancer l'env: env\scripts\activate
+django cmds: 
+django-admin (cmd list)
+django-admin startproject [name project]
+
+> python manage.py runserver = Dev server
+
+-python manage.py startapp [appname] => settings + "Installed_Apps" rajouter l'appname
+
+urls.py = routing 
+settings.py = apps, middleware, host, DB
+
+
+====
+Powershell Admin => Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
